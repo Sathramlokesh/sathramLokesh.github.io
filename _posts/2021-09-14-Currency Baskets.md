@@ -9,11 +9,16 @@ Blog:
  What is Currency Basket & why it is important ? 
 
  To over Come the risk of Currency fluctuations U.S Dollar INDEX (USDX) had  introduced this concept in 1973.
+ 
  It is a combination of various important currency which make a equal  weighable impact to the U.S Dollar.
  This also called as currency peg.
+ 
  Today this basket Consists of 6 types of currency they are namely the Euro,  Japanese Yen, British Pound, Canadian Dollar, Swedish Krona and Swiss  Franc.
+ 
  However, the most well-known currency basket is the U.S. dollar index  (USDX).Weight of this Currency Which makes equal single US  Dollar.
                                       Percentage
+
+
 Euro 58%	
 Japanese Yen 13%	
 British Pound 12%	
