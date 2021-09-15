@@ -5,7 +5,9 @@ Blog:
  ---
 
                                       CURRENCY BASKET:-
+ 
  What is Currency Basket & why it is important ? 
+ 
  To over Come the risk of Currency fluctuations U.S Dollar INDEX (USDX) had  introduced this concept in 1973.
  It is a combination of various important currency which make a equal  weighable impact to the U.S Dollar.
  This also called as currency peg.
