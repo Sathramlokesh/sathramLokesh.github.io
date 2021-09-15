@@ -30,4 +30,4 @@ During the 21st century the index has reached a high of 121 during the tech  boo
 
 
 
- ## All About Currency Baskets.
+ 
