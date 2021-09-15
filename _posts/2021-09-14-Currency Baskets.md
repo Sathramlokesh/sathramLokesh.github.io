@@ -1,7 +1,7 @@
 ---
 title:"My First Bloog"
 Date:2021-09-14
- categories:
+Blog:
  ---
 
                                       CURRENCY BASKET:-
