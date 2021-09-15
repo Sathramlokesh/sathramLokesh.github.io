@@ -7,7 +7,7 @@ Blog:
                                       CURRENCY BASKET:-
  
  What is Currency Basket & why it is important ? 
- 
+
  To over Come the risk of Currency fluctuations U.S Dollar INDEX (USDX) had  introduced this concept in 1973.
  It is a combination of various important currency which make a equal  weighable impact to the U.S Dollar.
  This also called as currency peg.
@@ -25,6 +25,7 @@ All above stated percentage in the above will equals the U.S Dollar.
 Through this USDX over come the currency fluctuations. 
 
 During the 21st century the index has reached a high of 121 during the tech  boom and a low of 71 just prior to the Great Recession.
+
  Mostly used by currency traders and any one who buys or sell any kind of  property or business outside there nation with Us Dollars or any kind of  transactions dealing directly or indirectly with Government of other nations.
 
 
